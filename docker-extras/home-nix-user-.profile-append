@@ -1,0 +1,8 @@
+# added as part of docker build
+
+# env variables (path to nix is setup in PATH by the installer)
+export PATH=$HOME/bin:/usr/local/bin:$PATH
+export DISPLAY="unix:0"
+export LANG=en_US.UTF-8
+export SHELL=/bin/bash
+export LESSCHARSET=utf-8
