@@ -5,6 +5,7 @@ buildEnv {
 
   paths = [
     bzip2
+    direnv
     file
     gnutar
     gzip
